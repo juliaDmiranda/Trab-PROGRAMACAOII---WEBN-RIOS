@@ -1,12 +1,3 @@
-/*Trabalho de programação II do curso de Ciência da Computação 
-pela instituição UFF-Rio das Ostras no ano 2020. O trabalho
-em grupo fio realizado por: Fernando Soares ,Elias Faria e Júlia Miranda.
-O trabalho consistia no cadastramento de professores a partir de um arquivo 
-binário enviado pelo professor, além disso era possível a exclusão de professores 
-cadastrados. Era permitido também o cadastramento de novos webnários,
-exclusão, inclusão de ´professores. Todos essas opções possuem condições 
-pré-definidas pelo professor da disciplina André Vilela.*/
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<malloc.h>
