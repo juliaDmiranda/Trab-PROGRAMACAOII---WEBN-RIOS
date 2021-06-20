@@ -1,6 +1,6 @@
 # Trab-PROGII---WEBN-RIOS
 Trabalho em grupo de programação II  do curso de Ciência da Computação pela instituição UFF-Rio das Ostras no ano 2020. 
-O programa permite as seguintes operações apartir de um arquivo binário:
+O programa permite as seguintes operações:
 
 - Cadastramento de professores
 - Exclusão de professores cadastrados
@@ -8,3 +8,5 @@ O programa permite as seguintes operações apartir de um arquivo binário:
 - Exclusão de webnários
 - Inscrição de professores nos webnários
 - Desisncrição de professores dos webnários
+
+As informações dos webnários e dos professores são armazenadas nos arquivos binários webnarios.bin e professores.bin .
