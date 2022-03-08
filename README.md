@@ -1,5 +1,6 @@
 # Trabalho de Programação II - WEBNÁRIOS
-Trabalho em grupo de programação II  do curso de Ciência da Computação pela instituição UFF-Rio das Ostras no ano 2020. 
+Trabalho em grupo de programação II  do curso de Ciência da Computação.
+
 O programa permite as seguintes operações:
 
 - Cadastramento de professores
